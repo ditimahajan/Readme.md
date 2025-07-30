@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Aditi</h1>
-<h3 align="center">A Passionate Full-Stack Developer, and Problem Solver</h3>
+<h3 align="center">A Passionate Product Developer, and Problem Solver</h3>
 
 <h3 align="center" style="color: #0E9CF7;">Exploring Machine Learning and AI</h3>
 
